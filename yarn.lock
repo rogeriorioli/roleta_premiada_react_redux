@@ -1494,10 +1494,10 @@ animate-css-styled-components@^1.0.2:
   resolved "https://registry.yarnpkg.com/animate-css-styled-components/-/animate-css-styled-components-1.0.2.tgz#0714fa22d9beac8fa09ab3d668851de6c01ad361"
   integrity sha512-kIU1lNSJaz6kGQv5bdWGJeuBSdQsNhWV+54SXzf9CDF50lK7JwuvhrO0AJ5RjdOFwQC/rUV8oKlPznURs8xhOA==
 
-animate.css@^3.7.2:
-  version "3.7.2"
-  resolved "https://registry.yarnpkg.com/animate.css/-/animate.css-3.7.2.tgz#e73e0d50e92cb1cfef1597d9b38a9481020e08ea"
-  integrity sha512-0bE8zYo7C0KvgOYrSVfrzkbYk6IOTVPNqkiHg2cbyF4Pq/PXzilz4BRWA3hwEUBoMp5VBgrC29lQIZyhRWdBTw==
+animate.css@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/animate.css/-/animate.css-4.1.1.tgz#614ec5a81131d7e4dc362a58143f7406abd68075"
+  integrity sha512-+mRmCTv6SbCmtYJCN4faJMNFVNN5EuCTTprDTAo7YzIGji2KADmakjVA3+8mVDkZ2Bf09vayB35lSQIex2+QaQ==
 
 ansi-colors@^3.0.0:
   version "3.2.4"
